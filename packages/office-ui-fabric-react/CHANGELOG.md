@@ -1,6 +1,19 @@
 # Change Log - office-ui-fabric-react
 
-This log was last generated on Fri, 26 Jan 2018 11:25:22 GMT and should not be manually modified.
+This log was last generated on Fri, 26 Jan 2018 22:28:42 GMT and should not be manually modified.
+
+## 5.44.0
+Fri, 26 Jan 2018 22:28:42 GMT
+
+### Minor changes
+
+- Added onRenderCoin prop that controls the persona coin image
+
+### Patches
+
+- Combox box: added accessibility changes added a title and changed activedescendant to use focused element
+- setting people picker default size back to 28 from 24
+- Add private _defaultCalloutProps instead of public defaultProps to set calloutProps.
 
 ## 5.43.1
 Fri, 26 Jan 2018 11:25:22 GMT
