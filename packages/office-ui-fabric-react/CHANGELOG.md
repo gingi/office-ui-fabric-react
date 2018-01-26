@@ -1,6 +1,14 @@
 # Change Log - office-ui-fabric-react
 
-This log was last generated on Fri, 26 Jan 2018 11:25:22 GMT and should not be manually modified.
+This log was last generated on Fri, 26 Jan 2018 22:12:21 GMT and should not be manually modified.
+
+## 5.43.2
+Fri, 26 Jan 2018 22:12:21 GMT
+
+### Patches
+
+- Combox box: added accessibility changes added a title and changed activedescendant to use focused element
+- setting people picker default size back to 28 from 24
 
 ## 5.43.1
 Fri, 26 Jan 2018 11:25:22 GMT
